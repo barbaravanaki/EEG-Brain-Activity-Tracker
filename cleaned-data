@@ -1,128 +1,157 @@
 [
  {
    "Name": "Ana M.",
-   "Gender": "Female",
+   "Gender": 6,
    "SRT": 1,
    "RST": 569.58,
    "SRT": 77.4,
    "Accuracy": 569.58,
-   "AttentionLevel": 89
+   "AttentionLevel": 89,
+   "FavoriteSubject": "Math",
+   "LeastFavoriteSubject": "Reading"
  },
  {
    "Name": "Belle C.",
-   "Gender": "Female",
+   "Gender": 6,
    "SRT": 1,
    "RST": 954.35,
    "SRT": 188.85,
    "Accuracy": 954.35,
-   "AttentionLevel": 90
+   "AttentionLevel": 90,
+   "FavoriteSubject": "Science",
+   "LeastFavoriteSubject": "Reading"
  },
  {
    "Name": "Leah J.",
-   "Gender": "Female",
+   "Gender": 6,
    "SRT": 0,
    "RST": 652.23,
    "SRT": 111.92,
    "Accuracy": 652.23,
-   "AttentionLevel": 93
+   "AttentionLevel": 93,
+   "FavoriteSubject": "Writing",
+   "LeastFavoriteSubject": "Art"
  },
  {
    "Name": "Thea P.",
-   "Gender": "Female",
+   "Gender": 6,
    "SRT": 1,
    "RST": 610.15,
    "SRT": 99.38,
    "Accuracy": 610.15,
-   "AttentionLevel": 93
+   "AttentionLevel": 93,
+   "FavoriteSubject": "Art",
+   "LeastFavoriteSubject": "Science"
  },
  {
    "Name": "Ryan H.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 750.11,
    "SRT": 233.45,
    "Accuracy": 750.11,
-   "AttentionLevel": 96
+   "AttentionLevel": 96,
+   "FavoriteSubject": "Math",
+   "LeastFavoriteSubject": "Writing"
  },
  {
    "Name": "Steven C.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 798.22,
    "SRT": 121.28,
    "Accuracy": 798.22,
-   "AttentionLevel": 96
+   "AttentionLevel": 96,
+   "FavoriteSubject": "Math",
+   "LeastFavoriteSubject": "History"
  },
  {
    "Name": "Andrew J.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 980.89,
    "SRT": 337.77,
    "Accuracy": 980.89,
-   "AttentionLevel": 97
+   "AttentionLevel": 97,
+   "FavoriteSubject": "Art",
+   "LeastFavoriteSubject": "Science"
  },
  {
    "Name": "Hector C.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 729.89,
    "SRT": 119.21,
    "Accuracy": 729.89,
-   "AttentionLevel": 97
+   "AttentionLevel": 97,
+   "FavoriteSubject": "Art",
+   "LeastFavoriteSubject": "Math"
  },
  {
    "Name": "Barbara V.",
-   "Gender": "Female",
+   "Gender": 6,
    "SRT": 0,
    "RST": 724.38,
    "SRT": 199.77,
    "Accuracy": 724.38,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Reading",
+   "LeastFavoriteSubject": "Science"
  },
  {
    "Name": "Hector E.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 1,
    "RST": 740.24,
    "SRT": 104.21,
    "Accuracy": 740.24,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Science",
+   "LeastFavoriteSubject": "Art"
  },
  {
    "Name": "Michael V.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 588.43,
    "SRT": 61.82,
    "Accuracy": 588.43,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Science",
+   "LeastFavoriteSubject": "History"
  },
  {
    "Name": "Clark K.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 516.32,
    "SRT": 118.1,
    "Accuracy": 516.32,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Art",
+   "LeastFavoriteSubject": "Writing"
  },
  {
    "Name": "Peter P.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 688.18,
    "SRT": 154.76,
    "Accuracy": 688.18,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Math",
+   "LeastFavoriteSubject": "Art"
  },
  {
    "Name": "Steve R.",
-   "Gender": "Male",
+   "Gender": 6,
    "SRT": 0,
    "RST": 742.69,
    "SRT": 233.21,
    "Accuracy": 742.69,
-   "AttentionLevel": 100
+   "AttentionLevel": 100,
+   "FavoriteSubject": "Writing",
+   "LeastFavoriteSubject": "Science"
  }
 ]
+
